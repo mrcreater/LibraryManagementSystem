@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LMS_DatabaseModelStoreContainer" CdmEntityContainer="LMS_DatabaseEntities">
+    <EntitySetMapping Name="tblAuthors">
+      <EntityTypeMapping TypeName="LMS_DatabaseModel.tblAuthor">
+        <MappingFragment StoreEntitySet="tblAuthor">
+          <ScalarProperty Name="AuthorId" ColumnName="AuthorId" />
+          <ScalarProperty Name="AutherName" ColumnName="AutherName" />
+          <ScalarProperty Name="AutherEmail" ColumnName="AutherEmail" />
+          <ScalarProperty Name="AutherConatct" ColumnName="AutherConatct" />
+          <ScalarProperty Name="isActive" ColumnName="isActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblBooks">
+      <EntityTypeMapping TypeName="LMS_DatabaseModel.tblBook">
+        <MappingFragment StoreEntitySet="tblBook">
+          <ScalarProperty Name="BookId" ColumnName="BookId" />
+          <ScalarProperty Name="BookTitle" ColumnName="BookTitle" />
+          <ScalarProperty Name="BookCategoryId" ColumnName="BookCategoryId" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Edition" ColumnName="Edition" />
+          <ScalarProperty Name="Release_Year" ColumnName="Release Year" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="isAvailable" ColumnName="isAvailable" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblBook_Author">
+      <EntityTypeMapping TypeName="LMS_DatabaseModel.tblBook_Author">
+        <MappingFragment StoreEntitySet="tblBook_Author">
+          <ScalarProperty Name="BookAuthorId" ColumnName="BookAuthorId" />
+          <ScalarProperty Name="BookId" ColumnName="BookId" />
+          <ScalarProperty Name="AuthorId" ColumnName="AuthorId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblBook_Publisher">
+      <EntityTypeMapping TypeName="LMS_DatabaseModel.tblBook_Publisher">
+        <MappingFragment StoreEntitySet="tblBook_Publisher">
+          <ScalarProperty Name="Book_PublisherId" ColumnName="Book_PublisherId" />
+          <ScalarProperty Name="BookId" ColumnName="BookId" />
+          <ScalarProperty Name="PublisherId" ColumnName="PublisherId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblBookCategories">
+      <EntityTypeMapping TypeName="LMS_DatabaseModel.tblBookCategory">
+        <MappingFragment StoreEntitySet="tblBookCategory">
+          <ScalarProperty Name="BookCategoryId" ColumnName="BookCategoryId" />
+          <ScalarProperty Name="BookCategory" ColumnName="BookCategory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPublishers">
+      <EntityTypeMapping TypeName="LMS_DatabaseModel.tblPublisher">
+        <MappingFragment StoreEntitySet="tblPublisher">
+          <ScalarProperty Name="PublisherId" ColumnName="PublisherId" />
+          <ScalarProperty Name="Publisher_Name" ColumnName="Publisher Name" />
+          <ScalarProperty Name="PublisherAddress" ColumnName="PublisherAddress" />
+          <ScalarProperty Name="PublisherContact" ColumnName="PublisherContact" />
+          <ScalarProperty Name="Ratting" ColumnName="Ratting" />
+          <ScalarProperty Name="isActive" ColumnName="isActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRoles">
+      <EntityTypeMapping TypeName="LMS_DatabaseModel.tblRole">
+        <MappingFragment StoreEntitySet="tblRole">
+          <ScalarProperty Name="roleId" ColumnName="roleId" />
+          <ScalarProperty Name="RoleType" ColumnName="RoleType" />
+          <ScalarProperty Name="isActive" ColumnName="isActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUsers">
+      <EntityTypeMapping TypeName="LMS_DatabaseModel.tblUser">
+        <MappingFragment StoreEntitySet="tblUser">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ContactNumber" ColumnName="ContactNumber" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="RegistrationDate" ColumnName="RegistrationDate" />
+          <ScalarProperty Name="NumOfBooks" ColumnName="NumOfBooks" />
+          <ScalarProperty Name="NumOfRe_issue" ColumnName="NumOfRe-issue" />
+          <ScalarProperty Name="roleId" ColumnName="roleId" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

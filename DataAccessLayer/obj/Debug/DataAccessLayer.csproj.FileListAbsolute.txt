@@ -1,0 +1,28 @@
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\LMS_Database.mdf
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\LMS_Database_log.ldf
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\EntityFramework.dll
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\EntityFramework.xml
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\LMS_Database.mdf
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\LMS_Database_log.ldf
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

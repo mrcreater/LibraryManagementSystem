@@ -1,0 +1,24 @@
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\bin\Debug\LMS_Database.mdf
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\bin\Debug\LMS_Database_log.ldf
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\bin\Debug\DataAccessLayer.dll
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\bin\Debug\DataAccessLayer.dll.config
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\AA Sheridan sem4\C# and NET\Shivani_Design\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\bin\Debug\LMS_Database.mdf
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\bin\Debug\LMS_Database_log.ldf
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\bin\Debug\DataAccessLayer.dll.config
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\College_Work\Semester_4\Dot Net\All Project\LibraryManagementSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
